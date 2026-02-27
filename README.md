@@ -108,6 +108,7 @@ This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/
 
 ## Links
 
+- [Dataset on Hugging Face](https://huggingface.co/datasets/lucioduran/ax-web-readiness)
 - [ax-audit on GitHub](https://github.com/lucioduran/ax-audit)
 - [ax-audit on npm](https://www.npmjs.com/package/ax-audit)
 - [Tranco List](https://tranco-list.eu/)
