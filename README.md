@@ -84,8 +84,8 @@ Check prefixes: `llms_txt`, `robots_txt`, `structured_data`, `http_headers`, `ag
 ## Reproduce
 
 ```bash
-git clone https://github.com/lucioduran/ax-audit.git
-cd ax-audit/dataset
+git clone https://github.com/lucioduran/ax-web-readiness.git
+cd ax-web-readiness
 npm install
 node crawl.js --limit 10000
 ```
