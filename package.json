@@ -1,0 +1,22 @@
+{
+  "name": "ax-web-readiness",
+  "version": "1.0.0",
+  "description": "AX Web Readiness — AI Agent Experience audit of top 10K websites. Dataset for Hugging Face.",
+  "type": "module",
+  "private": true,
+  "license": "CC-BY-4.0",
+  "author": "Lucio Duran <email@lucioduran.com> (https://lucioduran.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucioduran/ax-web-readiness.git"
+  },
+  "scripts": {
+    "crawl": "node crawl.js",
+    "upload": "node upload.js"
+  },
+  "dependencies": {
+    "ax-audit": "^2.1.0",
+    "@huggingface/hub": "^1.0.0",
+    "p-limit": "^6.2.0"
+  }
+}
